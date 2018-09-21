@@ -1,5 +1,5 @@
 <title>
-  <p>Front page</p>
+  <p>Whales In Wales</p>
 </title>
 
 <header>
